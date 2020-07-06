@@ -1,5 +1,5 @@
 {
-  "name": "localized-address-format",
+  "name": "@backmarket/localized-address-format",
   "version": "1.0.2",
   "description": "Localized Address Formatting",
   "main": "lib/index.js",
